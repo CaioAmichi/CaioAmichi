@@ -2,6 +2,8 @@
 
 - Atualmente Trabalho na(o): **Meta3Group**
 
+- Atualmente Aprendendo: **Aprendendo C# e TypeScript**
+
 - Você pode me encontrar em: **caiosantosamichi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
