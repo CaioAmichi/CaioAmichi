@@ -4,6 +4,8 @@
 
 - Atualmente Aprendendo: **Aprendendo C# e TypeScript**
 
+- Atualmente Trabalhando Com: **C# .Net, Vue e TypeScript**
+
 - Você pode me encontrar em: **caiosantosamichi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
