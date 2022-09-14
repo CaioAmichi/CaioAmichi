@@ -2,9 +2,9 @@
 
 - Atualmente Trabalho na(o): **Meta3Group**
 
-- Atualmente Aprendendo: **Aprendendo C# e TypeScript**
+-  Aprendendo: **Vue e Java**
 
-- Atualmente Trabalhando Com: **C# .Net, Vue e TypeScript**
+- Trabalhando com: **C# .Net e TypeScript**
 
 - Você pode me encontrar em: **caiosantosamichi@gmail.com**
 
