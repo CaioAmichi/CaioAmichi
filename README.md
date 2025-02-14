@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor FullStack, com foco em BackEnd</h3>
+<h3 align="center">Desenvolvedor BackEnd</h3>
 
 - Atualmente Trabalho na(o): **Linear Sistemas**
 
