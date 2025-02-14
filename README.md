@@ -1,8 +1,8 @@
 <h3 align="center">Desenvolvedor FullStack, com foco em BackEnd</h3>
 
-- Atualmente Trabalho na(o): **Meta3Group**
+- Atualmente Trabalho na(o): **Linear Sistemas**
 
--  Aprendendo: **Vue e Java**
+-  Aprendendo: **AWS e Rabbitmq**
 
 - Trabalhando com: **C# .Net e TypeScript**
 
